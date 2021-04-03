@@ -18,10 +18,10 @@ total_scores = sani_score + musa_score
 print(sani_score," ",musa_score," ",total_scores) 
 ''' 4. divide 12 by the decimal .5 and assign the result to the variable outcome and print the variable
 '''
-number1 = 12
-number2 = .5
-result = number1 / number2
-print(result)
+outcome = 12 / .5
+
+
+print(outcome)
 
 ''' 5. assign the sum of two numbers to a variable and print the variable
 '''
